@@ -115,7 +115,7 @@ const Contact = () => {
               />
             </Link>
             <Link
-              href="https://blog.victorwilliams.me/"
+              href="https://blog.victorAmans.me/"
               target="_blank"
               aria-label="View Hashnode Profile"
             >

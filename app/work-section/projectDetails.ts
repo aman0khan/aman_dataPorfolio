@@ -61,7 +61,7 @@ export const devProjects = [
   //     "Flixify lets you seamlessly explore movies and TV series, add bookmarks, and search across all pages. It offers user authentication along with a theme switch.",
   //   technologies: ["Next.js", "Typescript", "Prisma"],
   //   github: "https://github.com/victorcodess/flixify",
-  //   demo: "https://flixify.victorwilliams.me/",
+  //   demo: "https://flixify.victorAmans.me/",
   //   image: require(".//../../public/projects/flixify.png"),
   //   available: true,
   // },

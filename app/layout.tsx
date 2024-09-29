@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   description:
     "Data Analyst with Some great problem solving Skills and some Frontend.",
   generator: "Next.js",
-  applicationName: "Victor Williams",
+  applicationName: "Aman khan",
   keywords: [
     "freelance",
     "Data Analyst",
