@@ -19,7 +19,7 @@ const Hero = () => {
       <div className="absolute top-10 flex justify-between sm:w-[90%] lg:max-w-[1440px]">
         <div>
           <Link
-            href="https://drive.google.com/file/d/1RVajrWYURaC-Kzr-0pQySkIvhNEZ5afu/view?usp=sharing"
+            href="https://drive.google.com/file/d/1N_lgvAYsxtNA4k7TcBJPnndNtXwsAHiK/view?usp=sharing"
             target="_blank"
             aria-label="View Resume"
           >
@@ -55,18 +55,6 @@ const Hero = () => {
               variants={bodyAnimation}
             >
               LN
-            </motion.p>
-          </Link>
-          <Link
-            href="https://twitter.com/victorwill__"
-            target="_blank"
-            aria-label="View Twitter Profile"
-          >
-            <motion.p
-              className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
-              variants={bodyAnimation}
-            >
-              
             </motion.p>
           </Link>
         </div>
